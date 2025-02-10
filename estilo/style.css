@@ -14,6 +14,8 @@
     font-size: 1em;
 }
 
+.nojekyll
+
 html, body {
     min-height: 100vh;
     background-color: darkgrey;
